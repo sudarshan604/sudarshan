@@ -8,5 +8,7 @@ void main()
    printf("enter second number");
    scanf("%d",&b);
    s=a+b;
+   printf("sum of:%d+%d=%d",a,b,s);
+   getch();
 }
 
